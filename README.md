@@ -1,8 +1,8 @@
-<presentation align="center"> Hey, I'm KemDev's </presentation>
+<h1 align="center"> Hey, I'm KemDev's </h1>
 
-<hdescription4 align="center">Im a Python, C++ and C developper.</description>
+<h4 align="center">Im Python, C, C++ and Kernel developper</h4>
 
-<experience align="center"> I have experience with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </experience>
+<h2 align="center"> I have experience with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">  
   <a href=""> <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -11,7 +11,7 @@
   <a href=""> <img width ='42px' src =''> </a>
 </p>
 
-<stats align="center"> My GitHub Stats: </stats>
+<h2 align="center"> My GitHub Stats: </h2>
   
 <p align="center">
   <img src="https://github-readme-stats-zenixas.vercel.app/api?username=KemDevs&count_private=true&layout=compact&hide=issues&show_icons=true&theme=dark">
@@ -19,4 +19,3 @@
 
 <p align="center">
   <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=KemDevs&layout=compact&theme=dark">
-</p>
