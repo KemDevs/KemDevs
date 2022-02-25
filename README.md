@@ -1,4 +1,4 @@
-<presentation align="center"> Hey, I'm RyuK </presentation>
+<presentation align="center"> Hey, I'm KemDev's </presentation>
 
 <hdescription4 align="center">Im a Python, C++ and C developper.</description>
 
